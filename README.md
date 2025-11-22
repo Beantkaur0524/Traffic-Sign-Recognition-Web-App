@@ -18,9 +18,13 @@ A Streamlit-based deep learning web application that identifies traffic signs fr
 
 # 🛠 Technologies Used
 Python
+
 TensorFlow / Keras
+
 Streamlit
+
 NumPy / Pandas
+
 ResNet (pretrained CNN)
 
 # 🚀 How to Run the App Locally
