@@ -1,7 +1,7 @@
 # Traffic-Sign-Recognition-Web-App
 A Streamlit-based deep learning web application that identifies traffic signs from uploaded images using a trained ResNet model. This project demonstrates real-time image classification, preprocessing workflows, and deployment of a computer vision model using a simple and interactive UI.
 
-#🔍 Features
+# 🔍 Features
 📤 Upload any traffic sign image for instant prediction
 🧠 Deep Learning Model (ResNet-based) trained on GTSRB
 🔄 Automatic image preprocessing (resize, normalization, preprocessing)
