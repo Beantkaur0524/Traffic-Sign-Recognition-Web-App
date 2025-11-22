@@ -29,7 +29,10 @@ ResNet (pretrained CNN)
 
 # 🚀 How to Run the App Locally
 pip install -r requirements.txt
+
 streamlit run app.py
+
+python -m streamlit run app.py
 
 # 📸 Demo
 Upload an image → The model predicts the traffic sign instantly.
