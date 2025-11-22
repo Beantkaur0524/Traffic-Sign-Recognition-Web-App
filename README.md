@@ -3,11 +3,17 @@ A Streamlit-based deep learning web application that identifies traffic signs fr
 
 # 🔍 Features
 📤 Upload any traffic sign image for instant prediction
+
 🧠 Deep Learning Model (ResNet-based) trained on GTSRB
+
 🔄 Automatic image preprocessing (resize, normalization, preprocessing)
+
 📊 Prediction with class label + confidence scores
+
 🌐 Responsive UI built using Streamlit
+
 🎠 Optional carousel display for sample traffic-sign images
+
 🗂 Organized, clean project structure with modular code
 
 # 🛠 Technologies Used
