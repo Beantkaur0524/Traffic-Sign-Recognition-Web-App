@@ -10,19 +10,19 @@ A Streamlit-based deep learning web application that identifies traffic signs fr
 🎠 Optional carousel display for sample traffic-sign images
 🗂 Organized, clean project structure with modular code
 
-#🛠 Technologies Used
+# 🛠 Technologies Used
 Python
 TensorFlow / Keras
 Streamlit
 NumPy / Pandas
 ResNet (pretrained CNN)
 
-#🚀 How to Run the App Locally
+# 🚀 How to Run the App Locally
 pip install -r requirements.txt
 streamlit run app.py
 
-#📸 Demo
+# 📸 Demo
 Upload an image → The model predicts the traffic sign instantly.
 
-#🎯 Goal
+# 🎯 Goal
 To build an intuitive and educational tool that helps students, researchers, and developers understand CNN-based traffic sign recognition, model deployment, and UI/UX integration with Streamlit.
