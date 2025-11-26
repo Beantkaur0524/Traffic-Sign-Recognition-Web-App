@@ -14,7 +14,7 @@ st.set_page_config(
 carousel_items = [
     {"img": "street.jpg", "title": "Early Detection Saves Lives", "text": "AI-powered traffic sign recognition enhances road safety by detecting crucial traffic signs in real time"},
     {"img": "Signal.jpg", "title": "Real-Time Traffic Sign Analysis", "text": "Upload images to get instant AI-based traffic sign detection and accurate recognition"},
-    {"img": "stop sign.jpg", "title": "Safer Roads with AI Detection", "text": "Detect stop signs and other vital traffic signals quickly with advanced AI systems for accident prevention"},
+    {"img": "Stopp.jpg", "title": "Safer Roads with AI Detection", "text": "Detect stop signs and other vital traffic signals quickly with advanced AI systems for accident prevention"},
     {"img": "maxresdefault.jpg", "title": "Traffic Sign Recognition System", "text": "Utilize AI and deep learning to automatically recognize and interpret traffic signs, improving driver awareness and compliance"}
 ]
 
