@@ -97,7 +97,7 @@ div[data-testid="stTabs"] button {
 carousel(items=carousel_items, fade=True, container_height=600)
 st.markdown("<h1 style='text-align:center;'>Traffic Sign Recognition Web App</h1>", unsafe_allow_html=True)
 
-(tab1,) = st.tabs(["Traffic Sign Recognition Web App"])
+(tab1,) = st.tabs(["Traffic Sign Recognition"])
 
 with tab1:
     st.subheader("Upload and Analyze Traffic Sign Image")
